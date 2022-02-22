@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    background-color: blue;
+    width: 95vw;
+    height: 500px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    margin-left: 5px;
+    margin-right: 15px;
+    margin-top: 2px;
+}
